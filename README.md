@@ -51,7 +51,9 @@ school-statistics/
 5000-7500 студентов
 
 10000-11000 студентов
+
 ![image](https://github.com/user-attachments/assets/aedbcb6c-b492-4cf6-ac31-b3313328d457)
+
 
 
 Визуализация распределения количества студентов по округам
