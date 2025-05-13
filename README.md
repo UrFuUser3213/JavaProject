@@ -48,3 +48,8 @@
 
 Визуализация распределения количества студентов по округам
 ![image](https://github.com/user-attachments/assets/d06f19b6-c970-4656-acba-4648a9653ebb)
+
+
+
+БД
+![image](https://github.com/user-attachments/assets/489aec04-628d-40ee-932f-069f20b78efb)
